@@ -1,8 +1,8 @@
 # smart-bitcoin
 Value added projects, that enhance and extend the Bitcoin Block chain
 
-#Lightning ecosystem projects
+# Lightning ecosystem projects
 
-#RSK Bitcoin Smartcontract ecosystem projects
+# RSK Bitcoin Smartcontract ecosystem projects
 
-#Stacks ecosystem projects
+# Stacks ecosystem projects
